@@ -46,13 +46,14 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3, mainly because according to the Python documentation, there will be no more major releases for Python 2, but Python 3 will  keep being updated and improved.
+\([Source](https://www.python.org/download/releases/2.7.2/)\)
 
 ###Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+```python --version```
 
  
 

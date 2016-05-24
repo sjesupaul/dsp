@@ -67,6 +67,12 @@ What terminal editor will you use? How did you make your decision?
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>>  I’m going to use Pycharm, because I’m very comfortable with the IDE already, from using it previously and also using IntelliJ. Pycharm has a great debugging tool and a lot of useful autocomplete features. Some useful keyboard shortcuts for Pycharm are:
+* ⌘B navigates to declaration. It comes in handy when you are using new methods and would like to see how they were set up.
+* Ctrl+Space shows potential terms to autocomplete from, which allows you too code faster.
+* Ctrl+Shift+J combines two lines into one with proper formatting
+* ⌘+Plus / Shift+⌘+Hyphen  expand/collapse all blocks in file
+
+>> I customized the color scheme of my editor, and also made it show line numbers and an asterisk by modified files. 
 
  

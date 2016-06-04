@@ -74,5 +74,3 @@ What graphical editor will you use? How did you make your decision? What are som
 * ⌘+Plus / Shift+⌘+Hyphen  expand/collapse all blocks in file
 
 >> I customized the color scheme of my editor, and also made it show line numbers and an asterisk by modified files. 
-
- 

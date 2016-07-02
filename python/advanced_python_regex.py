@@ -87,3 +87,4 @@ def read_data(data):
     print('Total = ', count_doms)
 
 read_data('faculty.csv')
+

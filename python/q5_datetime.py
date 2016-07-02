@@ -38,3 +38,4 @@ date_stop = datetime(int(stop[2]), int(stop[1]), int(stop[0]))
 
 print('Number of days between', date_start.date(), '&', date_stop.date(), ':',
       (date_stop-date_start).days)
+

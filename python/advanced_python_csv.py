@@ -23,3 +23,4 @@ def read_data(data):
     wr.writerows(zip(emails[1:]))
 
 read_data('faculty.csv')
+

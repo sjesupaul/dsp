@@ -19,7 +19,8 @@ This data is available in this file:  [faculty.csv](python/faculty.csv)
 
 ####Q1. Find how many different degrees there are, and their frequencies: Ex:  PhD, ScD, MD, MPH, BSEd, MS, JD, etc.
 
->> - BSEd : 	 1
+>> There are 8 different degrees and one person without a degree ('0'):
+- BSEd : 	 1
 - ScD : 	 6
 - 0 : 	 1
 - MD : 	 1

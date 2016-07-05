@@ -14,4 +14,4 @@
 
 >> ```cohens_d = (first.totalwgt_lb.mean() - nonfirst.totalwgt_lb.mean()) / s```
 
->> This gives us a Cohen's d of -0.08867. This number indicates that the mean of babies' birth weight decreases with non-first babies. The difference between the means of the two groups is 0.08867 standard deviations. Compared to pregnancy length, where the length of a mother's pregnancy for her first pregnancy relative to a mother's non-first pregnancies, where Cohen's d was 0.029.
+>> This gives us a Cohen's d of -0.08867. This number indicates that the mean of babies' birth weight decreases with non-first babies. The difference between the means of the two groups is 0.08867 standard deviations. Compared to pregnancy length, where the length of a mother's pregnancy for her first pregnancy relative to a mother's non-first pregnancies, where Cohen's d was 0.029. That means that pregnancies of non-first babies tend to be slightly longer than those of the first-born.
